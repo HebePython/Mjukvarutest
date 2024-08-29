@@ -1,0 +1,10 @@
+import javax.swing.*;
+
+public class HelloJava {
+    JFrame frame = new JFrame("Hello, Java!"); {
+    frame.setSize(350, 250);
+    Jlabel label = new Jlabel("Hello, Mjukvarutestare!", Jlabel.CENTER);
+    frame.add(label);
+    frame.setVisible(true);
+    }
+}
